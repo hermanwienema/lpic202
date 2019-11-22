@@ -1,0 +1,9 @@
+dn: uid=wlei,ou=People,dc=example,dc=com
+changetype: add
+objectClass: inetOrgPerson
+description: Willem from Mainframe. Willem is the Linux 
+  guru of the Mainframe project, so contact him with any que
+ stions.
+cn: Willem Lei
+sn: Lei
+uid: wlei
